@@ -1,0 +1,2 @@
+started using of git hub
+this is the first file in git
